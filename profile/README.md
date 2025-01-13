@@ -50,7 +50,7 @@ Design:
 
 ## Suporte
 
-Para suporte, mande um email para thebonfiretech@gmail.com ou entre em nosso servidordo discord.
+Para suporte, mande um email para suporte@thebonfire.com.br ou entre em nosso servidordo discord.
 
 <div align="center">
 <br><p align="centre"><b>Número de visitantes:</b></p>  
