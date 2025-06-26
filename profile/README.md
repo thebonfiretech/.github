@@ -1,6 +1,6 @@
 # The Bonfire Tech
 
-Acesse nosso site em [thebonfire.tech](https://thebonfire.tech)
+Acesse nosso site em [thebonfire.com.br](https://thebonfire.com.br)
 ## Nossa História
 O Bonfire foi fundado em abril de 2022 por um grupo de amigos que identificaram a necessidade de melhorar a comunicação entre escola, professores e alunos. A ideia inicial era criar um site para a Escola Estadual João Felipe da Rocha, mas evoluímos para o desenvolvimento de um aplicativo, com o objetivo de facilitar a comunicação escolar e promover eventos e projetos da comunidade escolar.
 
