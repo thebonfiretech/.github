@@ -45,7 +45,6 @@ Design:
 - [@odutradev](https://www.github.com/odutradev)
 - [@AdrianJonathanMB](https://www.github.com/AdrianJonathanMB)
 - [@Gabi-Viana](https://www.github.com/Gabi-Viana)
-- [@Lopes-Amanda](https://www.github.com/Lopes-Amanda)
 
 
 ## Suporte
